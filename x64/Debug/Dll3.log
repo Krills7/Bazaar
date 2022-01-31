@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+C:\Users\David\source\repos\Dll3\Dll3\dllmain.cpp(99,45): warning C4244: 'initializing': conversion from 'uintptr_t' to 'UINT16', possible loss of data
+  Dll3.vcxproj -> C:\Users\David\source\repos\Dll3\x64\Debug\Dll3.dll

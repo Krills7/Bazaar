@@ -1,0 +1,18 @@
+﻿  hooklib.cpp
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(110,26): warning C4244: 'argument': conversion from 'long' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(187,25): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(193,20): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(195,20): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(256,25): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(267,25): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(285,25): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(296,25): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(312,19): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(437,41): warning C4309: '=': truncation of constant value
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(477,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David\source\repos\Dll3\Dll3\hooklib.cpp(447): warning C4715: 'Utility::HookManager::GetCallableOriginal': not all control paths return a value
+  Dll3.vcxproj -> C:\Users\David\source\repos\Dll3\Debug\Dll3.dll
