@@ -1,5 +1,4 @@
 #include "pch.h"
-// Created with ReClass.NET 1.2 by KN4CK3R
 class DataSlot
 {
 public:
@@ -101,9 +100,8 @@ DWORD WINAPI hackthread(LPVOID param)
                     }
                 }
             }
-            //PUT IT HERE HOYAAAA
         }
-        Sleep(10);
+        Sleep(20);
     }
     // Free the DLL
     fclose(f);
